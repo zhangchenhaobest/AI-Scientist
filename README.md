@@ -1,3 +1,29 @@
+# AI-Scientist
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI Scientist：迈向全自动开放式科学发现。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center">
   <a href="https://github.com/SakanaAI/AI-Scientist/blob/main/docs/logo_2.png">
     <img src="docs/logo_2.png" width="215" /></a><br>
